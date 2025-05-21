@@ -1,0 +1,15 @@
+timestamp,sessionId,userChoice,computerChoice,result,userScore,computerScore,resultLabel,cluster,prevResult,prevUserChoice,prevComputerChoice,predictedLoss
+2025-05-15T08:59:41.750Z,session_1747299267995,0,2,Oops! You lose...! scissor beats paper,0,1,0,2,0.0,0.0,0.0,True
+2025-05-15T08:59:50.498Z,session_1747299267995,2,2,It is a tie..!,0,1,0,0,0.0,0.0,2.0,True
+2025-05-15T08:59:54.098Z,session_1747299267995,1,1,It is a tie..!,0,1,0,2,0.0,2.0,2.0,True
+2025-05-15T08:59:56.488Z,session_1747299267995,1,2,Hurrah! You win..! rock beats scissor,1,1,1,0,0.0,1.0,1.0,True
+2025-05-15T08:59:59.112Z,session_1747299267995,1,0,Oops! You lose...! paper beats rock,1,2,0,2,1.0,1.0,2.0,True
+2025-05-15T09:00:02.948Z,session_1747299267995,2,2,It is a tie..!,1,2,0,0,0.0,1.0,0.0,True
+2025-05-15T09:00:05.655Z,session_1747299267995,1,0,Oops! You lose...! paper beats rock,1,3,0,2,0.0,2.0,2.0,True
+2025-05-15T09:00:07.605Z,session_1747299267995,1,1,It is a tie..!,1,3,0,2,0.0,1.0,0.0,True
+2025-05-15T09:00:08.510Z,session_1747299267995,0,2,Oops! You lose...! scissor beats paper,1,4,0,2,0.0,1.0,1.0,True
+2025-05-15T09:00:08.998Z,session_1747299267995,0,2,Oops! You lose...! scissor beats paper,1,5,0,2,0.0,0.0,2.0,True
+2025-05-15T09:00:09.382Z,session_1747299267995,0,0,It is a tie..!,1,5,0,2,0.0,0.0,2.0,True
+2025-05-15T09:00:09.894Z,session_1747299267995,0,2,Oops! You lose...! scissor beats paper,1,6,0,2,0.0,0.0,0.0,True
+2025-05-15T09:00:10.498Z,session_1747299267995,0,1,Hurrah! You win..! paper beats rock,2,6,1,1,0.0,0.0,2.0,True
+2025-05-15T09:00:11.878Z,session_1747299267995,1,1,It is a tie..!,2,6,0,2,1.0,0.0,1.0,True
